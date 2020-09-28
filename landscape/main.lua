@@ -5,16 +5,9 @@ io.output():setvbuf("no")
 display.setStatusBar(display.HiddenStatusBar)
 
 --#############################################################################
---# Device Background
+--# Overflow
 --#############################################################################
-local bg = display.newImageRect("landscape.png", 1386, 720)
-bg.x = display.contentCenterX
-bg.y = display.contentCenterY
-
---#############################################################################
---# Border
---#############################################################################
-local border = display.newImageRect("border.png", 1386, 720)
+local border = display.newImageRect("overflow.png", 1386, 720)
 border.x = display.contentCenterX
 border.y = display.contentCenterY
 
