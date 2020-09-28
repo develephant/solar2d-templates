@@ -1,6 +1,5 @@
 --#############################################################################
---# Cat Fight - Card Game
---# (c)2018 C. Byerley (develephant)
+--# Solar2D Landscape Template
 --#############################################################################
 io.output():setvbuf("no")
 display.setStatusBar(display.HiddenStatusBar)
