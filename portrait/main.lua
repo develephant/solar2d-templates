@@ -1,5 +1,5 @@
 --#############################################################################
---# Solar2D Potrait Template
+--# Solar2D Portrait Template
 --#############################################################################
 io.output():setvbuf("no")
 display.setStatusBar(display.HiddenStatusBar)
